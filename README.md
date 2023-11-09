@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Islam and Programming (Web Development).
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me +923209797441/email me at silentbeat2006y@gmail.com
+- Skills for Web development:
+- Html, CSS, Javascript, PHP and Laravel.
 
 Assalamu Alaikum! 
 My Name is Hamza but on the Internet, I'm known as Silentbeat, a 17-year-old Quran enthusiast and Full stack Laravel Developer. I know Html, Css, Bootstrap, Javascript, PHP and Laravel. I will meet your needs as a web developer at very low costs.
